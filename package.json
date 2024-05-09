@@ -1,0 +1,13 @@
+{
+  "name": "shopee-cart-backend",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Walber Menezes",
+  "license": "ISC"
+}
